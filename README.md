@@ -1,0 +1,2 @@
+# changeImageWithAnimationByCALayer
+用 CALayer 实现淡入淡出切换图片效果(配合CABasicAnimation)
